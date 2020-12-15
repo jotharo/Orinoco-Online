@@ -2,11 +2,11 @@
  
 To see and interact with the page online follow instructions
  
-# Prerequisites
+## Prerequisites
  
 You will need to have Node and npm installed locally on your machine.
 
-# Installation
+## Installation
 
 Clone the backend part of my repository Orinoco : https://github.com/jotharo/Orinoco
 
